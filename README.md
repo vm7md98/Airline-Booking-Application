@@ -8,4 +8,4 @@ Just import the 1st file to Oracle APEX. <br>
 # License & copyright
 
 © Mohammed Bineid, Webs & Apps Developer <br>
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE). 
